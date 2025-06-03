@@ -1,6 +1,6 @@
 <div align="center">
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvido-green)
 ![Versão](https://img.shields.io/badge/Versão-1.0.0-blue)
 ![Licença](https://img.shields.io/badge/Licença-Privada-red)
 
